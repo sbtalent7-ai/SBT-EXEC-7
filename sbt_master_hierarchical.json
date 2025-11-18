@@ -1,0 +1,658 @@
+{
+  "page_name": {
+    "bloc_name": {
+      "slug": "",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    }
+  },
+  "Accueil": {
+    "Hero – Transformation du leadership": {
+      "slug": "accueil/hero-transformation-du-leadership",
+      "cta": {
+        "label": "Découvrez notre approche intégrée",
+        "target": "nos-services/introduction"
+      }
+    },
+    "Notre promesse": {
+      "slug": "accueil/notre-promesse",
+      "cta": {
+        "label": "Découvrir notre conviction",
+        "target": "accueil/notre-conviction"
+      }
+    },
+    "Notre Conviction": {
+      "slug": "accueil/notre-conviction",
+      "cta": {
+        "label": "Découvrir notre méthodologie",
+        "target": "accueil/nos-services-cl-s"
+      }
+    },
+    "Nos Services Clés": {
+      "slug": "accueil/nos-services-cl-s",
+      "cta": {
+        "label": "Découvrir Executive Search",
+        "target": "landing-page-executive-search/landing-page-executive-search"
+      }
+    },
+    "Notre Signature": {
+      "slug": "accueil/notre-signature",
+      "cta": {
+        "label": "Découvrir notre approche intégrée",
+        "target": "notre-offre-signature/hero-intro"
+      }
+    },
+    "Qui nous sommes": {
+      "slug": "accueil/qui-nous-sommes",
+      "cta": {
+        "label": "Découvrir nos pôles d’expertise",
+        "target": "nos-services/introduction"
+      }
+    },
+    "Notre collectif de leaders": {
+      "slug": "accueil/notre-collectif-de-leaders",
+      "cta": {
+        "label": "Découvrir notre équipe au complet",
+        "target": "notre-pool-dexperts/hero-introduction"
+      }
+    },
+    "Nos Secteurs d’Expertise": {
+      "slug": "accueil/nos-secteurs-dexpertise",
+      "cta": {
+        "label": "Explorer nos secteurs",
+        "target": "nos-secteurs-dexpertise/hero-intro"
+      }
+    },
+    "Nos Références": {
+      "slug": "accueil/nos-r-f-rences",
+      "cta": {
+        "label": "Découvrir nos références",
+        "target": "nos-r-f-rences/hero-introduction"
+      }
+    },
+    "Témoignages": {
+      "slug": "accueil/t-moignages",
+      "cta": {
+        "label": "Travaillons ensemble",
+        "target": "https://calendly.com/clenest-sbt"
+      }
+    },
+    "Prise de contact": {
+      "slug": "accueil/prise-de-contact",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    },
+    "Pré-footer": {
+      "slug": "accueil/pr-footer",
+      "cta": {
+        "label": "Attract",
+        "target": "landing-page-executive-search/landing-page-executive-search"
+      }
+    },
+    "Footer": {
+      "slug": "accueil/footer",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    }
+  },
+  "À propos de SBT Executive": {
+    "Héros – Qui Nous Sommes:": {
+      "slug": "",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    },
+    "Notre Approche Intégrée": {
+      "slug": "propos-de-sbt-executive/notre-approche-int-gr-e",
+      "cta": {
+        "label": "Découvrir le SBT Leadership Shift",
+        "target": "notre-offre-signature/hero-intro"
+      }
+    },
+    "Nos Modèles pour les Enjeux de Leadership": {
+      "slug": "propos-de-sbt-executive/nos-mod-les-pour-les-enjeux-de-leadership",
+      "cta": {
+        "label": "Craft ",
+        "target": "nos-m-thodologies/craft"
+      }
+    },
+    "Notre Expertise Sur-Mesure:": {
+      "slug": "",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    },
+    "Une Équipe d’Experts Complémentaires": {
+      "slug": "propos-de-sbt-executive/une-quipe-dexperts-compl-mentaires",
+      "cta": {
+        "label": "Découvrez nos experts",
+        "target": "notre-pool-dexperts/hero-introduction"
+      }
+    },
+    "Rejoindre Notre Collectif": {
+      "slug": "propos-de-sbt-executive/rejoindre-notre-collectif",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    }
+  },
+  "Notre Offre Signature": {
+    "Hero- Intro": {
+      "slug": "notre-offre-signature/hero-intro",
+      "cta": {
+        "label": "Comprendre la démarche",
+        "target": "notre-offre-signature/les-4-piliers-du-leadership-shift"
+      }
+    },
+    "Les 4 Piliers du Leadership Shift:": {
+      "slug": "",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    },
+    "Notre Posture": {
+      "slug": "notre-offre-signature/notre-posture",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    },
+    "Le Leadership Shift selon SBT:": {
+      "slug": "",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    },
+    "Ce que Nous Activons: ": {
+      "slug": "",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    },
+    "FAQ Stratégique:": {
+      "slug": "",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    }
+  },
+  "Nos services": {
+    "Héros": {
+      "slug": "nos-services/h-ros",
+      "cta": {
+        "label": "Executive Search ",
+        "target": "executive-search/executive-search-hero"
+      }
+    },
+    "Introduction": {
+      "slug": "nos-services/introduction",
+      "cta": {
+        "label": "Executive Search ",
+        "target": "executive-search/executive-search-hero"
+      }
+    }
+  },
+  "Executive Search": {
+    "Executive Search- Hero": {
+      "slug": "executive-search/executive-search-hero",
+      "cta": {
+        "label": "Talent Mapping ",
+        "target": "executive-search/talent-leadership-mapping"
+      }
+    },
+    "Talent & Leadership Mapping": {
+      "slug": "executive-search/talent-leadership-mapping",
+      "cta": {
+        "label": "Planifier un échange confidentiel",
+        "target": "https://calendly.com/clenest-sbt"
+      }
+    },
+    "Executive Search": {
+      "slug": "executive-search/executive-search",
+      "cta": {
+        "label": "Planifier un échange confidentiel",
+        "target": "https://calendly.com/clenest-sbt"
+      }
+    },
+    "Strategic Assessment: ": {
+      "slug": "",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    },
+    "Strategic Onboarding: ": {
+      "slug": "",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    }
+  },
+  "Leadership Advisory": {
+    "Hero - ": {
+      "slug": "",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    },
+    "Introduction": {
+      "slug": "leadership-advisory/introduction",
+      "cta": {
+        "label": "Board & Organisational Effectiveness",
+        "target": "landing-page-board-organizational-effectiveness/landing-page-board-organizational-effectiveness"
+      }
+    }
+  },
+  "Board & Organizational effectiveness  ": {
+    "HERO": {
+      "slug": "",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    },
+    "Organizational & Executive Diagnostics": {
+      "slug": "",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    },
+    "Strategic Alignment": {
+      "slug": "",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    },
+    "Team Effectiveness & Conflict Management": {
+      "slug": "",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    },
+    "Global Rewards & Performance Management": {
+      "slug": "",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    }
+  },
+  "Leadership Development ": {
+    "Hero - Intro": {
+      "slug": "",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    },
+    "Executive Coaching:": {
+      "slug": "",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    },
+    "Leader Reset Coaching": {
+      "slug": "",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    },
+    "High-Potential Development ": {
+      "slug": "",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    },
+    "Leadership Group Programs ": {
+      "slug": "",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    }
+  },
+  "Sucession & Future Leadership": {
+    "Hero - Intro": {
+      "slug": "sucession-future-leadership/hero-intro",
+      "cta": {
+        "label": "Succession Planning",
+        "target": "sucession-future-leadership/succession-planning"
+      }
+    },
+    "Succession Planning": {
+      "slug": "sucession-future-leadership/succession-planning",
+      "cta": {
+        "label": "Planifier un échange confidentiel",
+        "target": "https://calendly.com/clenest-sbt"
+      }
+    },
+    "Succession Coaching": {
+      "slug": "sucession-future-leadership/succession-coaching",
+      "cta": {
+        "label": "Planifier un échange confidentiel",
+        "target": "https://calendly.com/clenest-sbt"
+      }
+    },
+    "AI & Future Leadership": {
+      "slug": "sucession-future-leadership/ai-future-leadership",
+      "cta": {
+        "label": "Planifier un échange confidentiel",
+        "target": "https://calendly.com/clenest-sbt"
+      }
+    },
+    "M&A & Leadership Continuity": {
+      "slug": "sucession-future-leadership/m-a-leadership-continuity",
+      "cta": {
+        "label": "Planifier un échange confidentiel",
+        "target": "https://calendly.com/clenest-sbt"
+      }
+    }
+  },
+  "Nos Méthodologies": {
+    "Hero- intro": {
+      "slug": "nos-m-thodologies/hero-intro",
+      "cta": {
+        "label": "Craft ",
+        "target": "nos-m-thodologies/craft"
+      }
+    },
+    "Craft": {
+      "slug": "nos-m-thodologies/craft",
+      "cta": {
+        "label": "Fabrice Gatti",
+        "target": "notre-pool-dexperts/pr-sentation-c-dric-fabrice"
+      }
+    },
+    "Communication Co-Créative:": {
+      "slug": "",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    },
+    "FUTURE": {
+      "slug": "nos-m-thodologies/future",
+      "cta": {
+        "label": "SBT Executive",
+        "target": "notre-pool-dexperts/pr-sentation-c-dric-fabrice"
+      }
+    }
+  },
+  "Nos Secteurs d'Expertise": {
+    "Hero- intro": {
+      "slug": "nos-secteurs-dexpertise/hero-intro",
+      "cta": {
+        "label": "Sport ",
+        "target": "nos-secteurs-dexpertise/sport"
+      }
+    },
+    "Sport": {
+      "slug": "nos-secteurs-dexpertise/sport",
+      "cta": {
+        "label": "Prendre un moment pour une discussion confidentielle",
+        "target": "https://calendly.com/clenest-sbt"
+      }
+    },
+    "Entertainment": {
+      "slug": "nos-secteurs-dexpertise/entertainment",
+      "cta": {
+        "label": "Prendre un moment pour une discussion confidentielle",
+        "target": "https://calendly.com/clenest-sbt"
+      }
+    },
+    "Loisirs": {
+      "slug": "nos-secteurs-dexpertise/loisirs",
+      "cta": {
+        "label": "Prendre un moment pour une discussion confidentielle",
+        "target": "https://calendly.com/clenest-sbt"
+      }
+    }
+  },
+  "Notre Pool d'Experts": {
+    "Hero- Introduction": {
+      "slug": "notre-pool-dexperts/hero-introduction",
+      "cta": {
+        "label": "Prendre un moment pour une discussion confidentielle",
+        "target": "https://calendly.com/clenest-sbt"
+      }
+    },
+    "Éditorial d’Introduction": {
+      "slug": "notre-pool-dexperts/ditorial-dintroduction",
+      "cta": {
+        "label": "Découvrir notre collectif",
+        "target": "notre-pool-dexperts/introduction-au-mapping-dexpertise"
+      }
+    },
+    "Introduction au Mapping d’Expertise": {
+      "slug": "notre-pool-dexperts/introduction-au-mapping-dexpertise",
+      "cta": {
+        "label": "Voir la cartographie complète",
+        "target": "notre-pool-dexperts/mapping-dexpertise"
+      }
+    },
+    "Mapping d’Expertise:": {
+      "slug": "",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    },
+    "Présentation : Cédric & Fabrice": {
+      "slug": "notre-pool-dexperts/pr-sentation-c-dric-fabrice",
+      "cta": {
+        "label": "Discuter d’un enjeu stratégique",
+        "target": "https://calendly.com/clenest-sbt"
+      }
+    },
+    "Présentation : Laurent & Antoine:": {
+      "slug": "",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    },
+    "Présentation : Kris & Tom": {
+      "slug": "notre-pool-dexperts/pr-sentation-kris-tom",
+      "cta": {
+        "label": "Discuter d’un enjeu stratégique",
+        "target": "https://calendly.com/clenest-sbt"
+      }
+    },
+    "Présentation : Jean-Laurent & Jean-Baptiste:": {
+      "slug": "",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    },
+    "Présentation : Marine & Daniel: ": {
+      "slug": "",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    },
+    "CTA Final:": {
+      "slug": "",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    }
+  },
+  "Nos Références": {
+    "Hero- Introduction": {
+      "slug": "nos-r-f-rences/hero-introduction",
+      "cta": {
+        "label": "Explorer nos références",
+        "target": "nos-r-f-rences/carousel-t-moignages-introduction"
+      }
+    },
+    "Introduction – Témoignages & Partenariats:": {
+      "slug": "",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    },
+    "Carousel Témoignages – Introduction: ": {
+      "slug": "",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    },
+    "Carousel Témoignages – Suite": {
+      "slug": "nos-r-f-rences/carousel-t-moignages-suite",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    },
+    "Carousel Logos:": {
+      "slug": "",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    },
+    "Carousel Missions – Introduction: ": {
+      "slug": "",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    },
+    "Carousel Missions – Suite:": {
+      "slug": "",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    },
+    "CTA Final:": {
+      "slug": "",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    }
+  },
+  "Insights & Ressources": {
+    "Hero- Introduction": {
+      "slug": "insights-ressources/hero-introduction",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    },
+    "Derniers Insights & Sélection:": {
+      "slug": "",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    },
+    "Fil d’Actualités Sectorielles: ": {
+      "slug": "",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    },
+    "Hub Newsletter:": {
+      "slug": "",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    },
+    "CTA Contact": {
+      "slug": "insights-ressources/cta-contact",
+      "cta": {
+        "label": " Planifier un échange",
+        "target": "https://calendly.com/clenest-sbt"
+      }
+    }
+  },
+  "Contact": {
+    "Hero- Introduction": {
+      "slug": "contact/hero-introduction",
+      "cta": {
+        "label": "Partager mon besoin",
+        "target": ""
+      }
+    },
+    "Formulaire – Entreprises: ": {
+      "slug": "",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    },
+    "Formulaire – Candidats / Talent Pool:": {
+      "slug": "",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    }
+  },
+  "Landing Page Executive Search  ": {
+    "": {
+      "slug": "",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    }
+  },
+  "Landing Page Board & Organizational Effectiveness ": {
+    "": {
+      "slug": "",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    }
+  },
+  "Landing Page Leadership Development": {
+    "": {
+      "slug": "",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    }
+  },
+  "Landing Page Succession & Future Leadership": {
+    "": {
+      "slug": "",
+      "cta": {
+        "label": "",
+        "target": ""
+      }
+    }
+  }
+}
